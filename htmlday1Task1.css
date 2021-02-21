@@ -1,0 +1,30 @@
+
+    .mandatory{
+    color: red;
+}
+.refer{
+    color: orange;
+}
+.comment{
+    color: blue;
+}
+#application{
+    background-color: brown;
+    text-align: center;
+    color:white;
+}
+.line{
+    border-collapse: collapse;
+    background-color: rgb(238, 235, 202);
+}
+.first{
+    padding:15px;
+}
+.movecell{
+    padding-left: 150px;
+    padding-right: 125px;
+    border:none;
+}
+#mini{
+    border-collapse: collapse;
+}
